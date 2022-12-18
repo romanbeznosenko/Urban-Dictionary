@@ -15,4 +15,3 @@ def welcome(message):
 	bot.send_message(message.chat.id,text = output, parse_mode = "Markdown")
 
 bot.polling(none_stop=True)
-
