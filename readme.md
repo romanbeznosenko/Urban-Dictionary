@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Run the bot:
 
 ```bash
-python bot.py
+python main.py
 ```
 
 Telegram Bot id: @https://t.me/urban_dict_245125_Bot  
